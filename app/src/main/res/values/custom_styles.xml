@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.gig.headline1" parent="TextAppearance.Material3.HeadlineLarge">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
