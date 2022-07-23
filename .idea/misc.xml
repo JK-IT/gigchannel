@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/comic/kandroid_space/gigchannel/app/src/main/res/layout/frag_gig.xml" value="0.25" />
+        <entry key="..\:/Users/comic/kandroid_space/gigchannel/app/src/main/res/layout/frag_post.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22644927536231885" />
         <entry key="app/src/main/res/layout/frag_post.xml" value="0.3692708333333333" />
         <entry key="app/src/main/res/layout/fragment_entry.xml" value="0.3692708333333333" />

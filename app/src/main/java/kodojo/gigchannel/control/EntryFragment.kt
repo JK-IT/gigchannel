@@ -49,9 +49,11 @@ class EntryFragment : Fragment()
         profile_btn = v.findViewById(R.id.entryfrag_profile_btn);
         // #### ----- assigning functions to views
         post_btn.setOnClickListener {
-            it.scaleX = 1.5f;
-            it.scaleY = 1.5f;
             navController.navigate(R.id.postFragment);
+        }
+        // ==========  .....------------......... #########
+        gigs_btn.setOnClickListener{
+            navController.navigate(R.id.gigFragment);
         }
     }
 

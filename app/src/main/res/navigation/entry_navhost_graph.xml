@@ -13,9 +13,17 @@
         <action
             android:id="@+id/action_entryFragment_to_postFragment"
             app:destination="@id/postFragment" />
+        <action
+            android:id="@+id/action_entryFragment_to_gigFragment"
+            app:destination="@id/gigFragment" />
     </fragment>
     <fragment
         android:id="@+id/postFragment"
         android:name="kodojo.gigchannel.component.PostFragment"
         android:label="PostFragment" />
+    <fragment
+        android:id="@+id/gigFragment"
+        android:name="kodojo.gigchannel.component.GigFragment"
+        android:label="frag_gig"
+        tools:layout="@layout/frag_gig" />
 </navigation>
