@@ -1,1 +1,7 @@
 main-activity   --> entry_ prefix
+
+finder will post a brief summary and send to poster
+poster will take a look then make move
+####
+post fragment
+    Name    phone   preferred contact method    gig description     gig location
